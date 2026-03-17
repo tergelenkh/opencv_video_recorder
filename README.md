@@ -1,4 +1,4 @@
-# OpenCV Live Recorder
+# OpenCV Video Recorder
 
 A simple OpenCV video recorder with preview mode, record mode, timestamp, brightness control, and on-screen keyboard help.
 
@@ -6,7 +6,6 @@ A simple OpenCV video recorder with preview mode, record mode, timestamp, bright
 - Live webcam preview
 - Video recording using OpenCV
 - Preview and Record mode
-- Red REC indicator while recording
 - Timestamp display
 - Brightness control
 - Bottom help bar showing keyboard shortcuts
